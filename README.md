@@ -13,7 +13,7 @@
 </p>
 
 
-- 🌱 I’m currently learning **React**
+- Full Stack MERN Developer | React, Node.js, MongoDB | AWS | API & Automation
 
 - 💬 Ask me about **MERN**
 
